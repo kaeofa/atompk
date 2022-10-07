@@ -7,7 +7,7 @@
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/atom/atompk",
+  "repository": "https://github.com/kaeofa/atompk",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
